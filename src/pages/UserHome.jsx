@@ -51,7 +51,7 @@ const UserHome = () => {
       </nav>
 
       <main>
-        <h2>Welcome back, Sarah</h2>
+        <h2>Welcome back, Hima</h2>
         <p>Ready to test your knowledge or create a new challenge?</p>
 
         <section className="quiz-cards">
